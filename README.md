@@ -1,1 +1,1 @@
-# Qt-Designer-Example
+# Python-Qt-Example
