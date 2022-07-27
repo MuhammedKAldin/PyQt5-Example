@@ -4,7 +4,7 @@
 - index2 -> Conditionals, Events and ComboBox
 - Ui_home -> Ui_home -> form load management
 
-*Instantiation Through UI -> Py *
+*Instantiation Through UI -> Py
 ``` 
 if __name__ == "__main__":
     import sys
@@ -16,7 +16,7 @@ if __name__ == "__main__":
     sys.exit(app.exec_()) 
 ```
 
-*Instantiation Through UI Directly *
+*Instantiation Through UI Directly
 ``` 
 from ast import If
 from PyQt5.QtWidgets import QMainWindow, QApplication
