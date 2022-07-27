@@ -12,4 +12,4 @@
     ui = Ui_otherWindow()
     ui.setupUi(MainWindow)
     MainWindow.show()
-    sys.exit(app.exec_()) ```
+    sys.exit(app.exec_()) 
